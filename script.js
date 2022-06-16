@@ -21,3 +21,5 @@ class AddElement {
 }
 
 const add = new AddElement("h1").to("h1").content("LOL").done()
+
+console.log(add)
